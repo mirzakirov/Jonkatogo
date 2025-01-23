@@ -1,0 +1,62 @@
+.chq {
+    text-align: center;
+    background-color: aqua;
+
+}
+
+.h2 {
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+
+
+.button1 {
+    background-color: rgb(24, 134, 137);
+    width: 190px;
+    height: 39px;
+    color: white;
+    border: 3px solid white;
+}
+
+.td1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.td2 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.td3 {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+.p1 {
+    color: white;
+    background-color: red;
+}
+
+.td4 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.teng {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.td6 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
